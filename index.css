@@ -1,0 +1,60 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6PN5vfN4UekEjOkGRr6v5EM5eHp55tetMA&usqp=CAU");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+h1 {
+    color:black;
+    text-align: center;
+    margin-top: 30px;
+    font-family: cursive;
+    margin-bottom: 30px;
+    
+}
+
+.container {
+    background-color:lightgray;
+    max-width: 70%;
+    margin: auto;
+    border: 4px sienna;
+    border-radius: 15px;
+}
+h2 {
+    font-size: 40px;
+    margin-top:0;
+    margin-bottom:7px;
+}
+button{
+    border: 2px solid black;
+    padding-top: 3px;
+    padding-bottom:02px;
+    color:red;
+    font-weight:bold;
+    width:150px;
+    margin-bottom:7px;
+    margin-left: 26px;
+    border-radius:85px;
+    text-align: center;
+}
+
+#taken-btn{
+    background-color: lightblue;
+}
+#removed-btn {
+    background-color:blueviolet;
+}
+#save-btn{
+    background-color: lightgreen;
+}
+#save-el{
+    font-weight:bold;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#count-el{
+    text-align:center;
+    padding-bottom:20px;
+
+}
