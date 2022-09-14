@@ -2,7 +2,9 @@ body {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6PN5vfN4UekEjOkGRr6v5EM5eHp55tetMA&usqp=CAU");
     background-size: cover;
     height: 100vh;
-
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    
 }
 
 h1 {
